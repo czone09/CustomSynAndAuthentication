@@ -4,3 +4,5 @@ cust-auth-sync.exe
 InternalVsExternalUsers.md
 LICENSE
 README.md
+build/
+dist/
