@@ -1,8 +1,5 @@
 config.json
 cust-auth-sync.exe
 .venv/
-InternalVsExternalUsers.md
-LICENSE
-README.md
 build/
 dist/
